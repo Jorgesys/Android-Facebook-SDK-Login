@@ -5,9 +5,9 @@
 
 
 Login for android using Android SDK.
+
 https://developers.facebook.com/docs/facebook-login/android
-app settings
-https://developers.facebook.com/apps/331877241457/settings/basic/
+
 https://developers.facebook.com/apps/
 
 If you need an API key for testing, contact me @ jorgesys12@gmail.com
