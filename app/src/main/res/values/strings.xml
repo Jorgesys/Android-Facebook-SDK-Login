@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginFacebook</string>
+    <string name="welcome_msg">Hello Jorgesys!</string>
+
+    <string name="facebook_app_id">323623647216</string>
+    <string name="fb_login_protocol_scheme">fb323623647216</string>
+
+</resources>
